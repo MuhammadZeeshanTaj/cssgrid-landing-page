@@ -1,0 +1,15 @@
+{
+  "name": "css-grid-landing-page",
+  "version": "1.0.0",
+  "description": "Css grid landing page",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d css-grid-page"
+  },
+  "author": "Muhammad Zeeshan Taj",
+  "license": "ISC",
+  "homepage": "https://MuhammadZeeshanTaj.github.io/cssgrid-landing-page",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
